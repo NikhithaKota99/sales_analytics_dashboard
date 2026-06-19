@@ -15,9 +15,9 @@ This project analyzes sales performance using Power BI and provides insights int
 ![Sales Dashboard](dashboard.PNG)
 
 ## KPIs
-- Total Sales: 2.30M
+- Total Sales: 2.3M
 - Total Profit: 286.40K
-- Total Orders: 5.01K
+- Total Orders: 5K
 - Profit Margin: 12.47%
 
 ## Analysis Performed
