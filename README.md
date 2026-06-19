@@ -10,6 +10,9 @@ This project analyzes sales performance using Power BI and provides insights int
 - Power BI
 - Power Query
 - DAX
+  
+## Dashboard Preview
+![Sales Dashboard](dashboard.PNG)
 
 ## KPIs
 - Total Sales: 2.30M
